@@ -1,4 +1,4 @@
-### Oi mundo! Eu sou Guilherme [hi](https://user-images.githubusercontent.com/83793609/154873359-3ceebb93-c98a-458c-a717-22b58a1e5fd4.gif)!
+###<h1 align="left">Oi mundo! Eu sou Guilherme <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
 
 
 <!--
