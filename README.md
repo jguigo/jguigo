@@ -4,10 +4,10 @@
 
 - 🔭 No momento estou trabalhando na minha transição de carreira.
 - 🌱 Estou aprendendo HTML, CSS e Javascript.
-- 👯 Procuro colocar por um mundo mais digital.
+- 👯 Quero fazer do mundo um lugar mais digital! :blue_heart:
 - 💬 Me pergunte sobre qualquer coisa! Se eu não souber, podemos aprender juntos!
 - 😄 Pronomes: Ele/Dele
-
+- 📖 Atualmente estou lendo Estruturas de Dados e Algoritmos com JavaScript - Loiane Groner
 <br>
 
 ### Você pode falar comigo por aqui:
