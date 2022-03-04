@@ -2,6 +2,7 @@
 
  <img align="right" alt="GIF" src="https://github.com/jguigo/jguigo/blob/main/img-dev.gif?raw=true" width="500" height="320" />
 
+- 👨‍🎓 Sou formado em Engenharia de Produção!
 - 🔭 No momento estou trabalhando na minha transição de carreira.
 - 🌱 Estou aprendendo HTML, CSS e Javascript.
 - 👯 Quero fazer do mundo um lugar mais digital! :blue_heart:
