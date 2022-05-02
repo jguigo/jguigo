@@ -4,7 +4,7 @@
 
 - 👨‍🎓 Sou formado em Engenharia de Produção!
 - 🔭 No momento estou trabalhando na minha transição de carreira.
-- 🌱 Estou aprendendo HTML, CSS e Javascript.
+- 🌱 Estou aprendendo NodeJS e Express.
 - 👯 Quero fazer do mundo um lugar mais digital! :blue_heart:
 - 💬 Me pergunte sobre qualquer coisa! Se eu não souber, podemos aprender juntos!
 - 😄 Pronomes: Ele/Dele
