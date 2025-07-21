@@ -23,7 +23,7 @@ const jguigo = {
         frontEnd: {
           JavaScript: ['Vanilla JS', 'TypeScript', 'React'],
           HTML: ['HTML5'],
-          CSS: ['CSS Modules', 'Bootstrap'],
+          CSS: ['CSS Modules', 'Bootstrap', 'Tailwind'],
         },
         backEnd: {
           TypeScript: ['Node.js', 'Express'],
