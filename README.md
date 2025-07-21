@@ -4,7 +4,7 @@
   
 <img height="250" src="https://c.tenor.com/_LOm-JCkWncAAAAi/alienpls.gif?" />
 
-Web Developer @ [NuVidio](https://nuvidio.com.br/).
+Developer at @[NuVidio](https://nuvidio.com.br/).
 
 <details>
   <summary> More about me</summary>
@@ -19,17 +19,19 @@ const jguigo = {
         interests: ['games', 'anime' 'language learning'],
     },
     technical: {
-        technologies: {
-            frontEnd: {
-                Javascript: ['Vanilla JS', 'TypeScript', 'React'],
-                HTML: ['HTML5'],
-                CSS: ['module-css', 'Bootstrap'],
-            },
-            backEnd: {
-                Javascript: ['Node.js', 'Express']
-            },
+      technologies: {
+        frontEnd: {
+          JavaScript: ['Vanilla JS', 'TypeScript', 'React'],
+          HTML: ['HTML5'],
+          CSS: ['CSS Modules', 'Bootstrap'],
         },
-    }
+        backEnd: {
+          TypeScript: ['Node.js', 'Express'],
+          Go: ['Go'],
+        },
+        Database: ['MongoDB'],
+    },
+  }
 }
 ```
   </div>
